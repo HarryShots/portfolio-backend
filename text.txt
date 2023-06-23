@@ -2,4 +2,4 @@ username:
 
 password:
 
-url: 
+url: mongodb+srv://bobgalaharrison8:WxHciDYIQZ3vBWAL@portfoliobackend.9yuwtim.mongodb.net/?retryWrites=true&w=majority
