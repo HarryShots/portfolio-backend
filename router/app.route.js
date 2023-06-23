@@ -1,4 +1,4 @@
-const portfolioController = require ("../controller/app.controller");
+const portfolioController = require("../controller/app.controller");
 const testimonialsController = require("../controller/app.controller");
 const express = require ("express");
 const router = express.Router();
